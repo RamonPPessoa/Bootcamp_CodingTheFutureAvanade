@@ -2,7 +2,7 @@
 # Coding The Future Avanade
 
 Esse é o Bootcamp da multinacional Avanade em parceria com a plataforma DIO, bootcamp na lingaugem C# com CRM Dynamics, uma das melhores soluções dentro do mercado corporativo.
-Nesse bootcamp estou tendo a oportunidade de rever e reforçar conhecimentos na linguagem C# e adquiri conhecimentos em Dynamics.
+Nesse bootcamp estou tendo a oportunidade de rever e reforçar conhecimentos na linguagem C# e poder adquirir conhecimentos em Dynamics.
 
 ### O Bootcamp apresenta os seguintes conteúdos:
 

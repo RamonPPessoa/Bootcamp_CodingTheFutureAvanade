@@ -6,6 +6,8 @@ listaString.Add("AC");
 
 listaString.Add("AP");
 
+listaString.Add("RO");
+
 int contadorForeach = 0;
 
 foreach (string item in listaString)

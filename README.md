@@ -26,7 +26,7 @@ Nesse bootcamp estou tendo a oportunidade de rever e reforçar conhecimentos na 
 <div align="center">
   <a href="https://github.com/RamonPPessoa">
   
-## Tencologias utilizadas:
+## Tecnologias e ferramentas utilizadas:
     
   <img height ="70" width="70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height ="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
